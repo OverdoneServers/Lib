@@ -1,6 +1,6 @@
 [submodule "Library"]
 	path = Library
-	url = https://github.com/OverdoneServers/Library/
+	url = https://github.com/OverdoneServers/OS-Library
 [submodule "Menu"]
 	path = Menu
 	url = https://github.com/OverdoneServers/OS-Menu
