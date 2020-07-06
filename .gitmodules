@@ -4,6 +4,6 @@
 [submodule "Menu"]
 	path = Menu
 	url = https://github.com/OverdoneServers/OS-Menu
-[submodule "PvP Battle"]
-	path = _PvP Battle
+[submodule "_PvP Battle"]
+	path = PvP Battle
 	url = https://github.com/OverdoneServers/OS-PvPBattle
