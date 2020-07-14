@@ -7,3 +7,6 @@
 [submodule "★ PvP Battle"]
 	path = ★ PvP Battle
 	url = https://github.com/OverdoneServers/OS-PvPBattle
+[submodule "★ Casino - Texas Holdem (Poker)"]
+	path = ★ Casino - Texas Holdem (Poker)
+	url = https://github.com/OverdoneServers/OS_Texas-Holdem
